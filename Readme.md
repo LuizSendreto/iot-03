@@ -8,7 +8,7 @@ Esse repositório apresenta um projeto desenvolvido para a disciplina de IoT, ut
 
 ##  Simulação no Tinkercad
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/ejosMMb5AMS/editel?returnTo=%2Fdashboard&sharecode=vkeBGJvBj57vnxSYEiPh2tgVvan2H5nlIgpDY4kX2EU)
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/ejosMMb5AMS)
 
 ##  Enunciado: Sensor de movimento com LED
 
